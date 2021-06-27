@@ -11,7 +11,7 @@
 </head>
 <body>
  <h1 align="center">Caltech Simplilearn June 2021</h1>
-<h1 align="center">Congrats - your app deployed on Tomcat!</h1>
-<h2 align="center">This is homepage for tomcat web application!</h2>
+<h1 align="center">Congrats - my app deployed on Tomcat!</h1>
+<h2 align="center">This is homepage for tomcat web application deployed by Abhishek Padmanabhan on Tomcat!</h2>
 </body>
 </html>
