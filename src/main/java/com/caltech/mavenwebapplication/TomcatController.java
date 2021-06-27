@@ -1,3 +1,4 @@
+package com.caltech.mavenwebapplication;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
